@@ -1,0 +1,23 @@
+
+
+div.herosection {
+    background-color: #1f2937;
+    
+}
+
+.heromain {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.headlink {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.headlogo {
+    font-size: 24px;
+    color: #f9faf8;
+}
