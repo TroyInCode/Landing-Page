@@ -14,7 +14,7 @@ body {
 
 div.herosection {
     background-color: #1f2937;
-    height: 400px;
+    height: 450px;
 }
 
 .heromain {
@@ -37,12 +37,20 @@ div.herosection {
 .headlogo {
     font-size: 24px;
     color: #f9faf8;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-right: -400px;
+}
+
+.toplinks {
+    display: flex;
+    justify-content: space-around;
 }
 
 .threelinks {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
+    margin-top: 20px;
+    gap: 25px;
+
 }
 
 .bluebutton {
@@ -79,6 +87,7 @@ div.herosection {
     flex-direction: row;
     gap: 75px;
     justify-content: center;
+    margin-top: 25px;
 }
 
 .introtext {
