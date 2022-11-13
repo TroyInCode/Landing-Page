@@ -135,3 +135,26 @@ div.herosection {
     width: 150px;
     flex-wrap: wrap;
 }
+
+.quotebox {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    padding: 300px;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.thor {
+    display: flex;
+    color:#1f2937;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 750px;
+    font-style: normal;
+}
