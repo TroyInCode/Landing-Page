@@ -170,7 +170,7 @@ div.herosection {
  flex-direction: row;
  justify-content: space-around;
  align-items: center;
- background-color: #3882f6;
+ background-color: #7b35e8;;
  height: 150px;
  width: 1100px;
  border-radius: 12px;
@@ -180,7 +180,7 @@ div.herosection {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #3882f6;
+    background-color: #010003;
     border: 2px solid white;
     border-radius: 12px;
     color: #f9faf8;
@@ -207,9 +207,9 @@ div.herosection {
 
  .footerarea {
     display: flex;
+    background-color: #1f2937;
     justify-content: center;
     align-items: center;
-    background-color: #1f2937;
     height: 100px;
  }
 
