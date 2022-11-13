@@ -204,3 +204,18 @@ div.herosection {
  .signtext {
     margin-top: -15px;
  }
+
+ .footerarea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    height: 100px;
+ }
+
+ footer {
+    color: #f9faf8;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
