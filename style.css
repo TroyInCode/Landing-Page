@@ -142,7 +142,7 @@ div.herosection {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 300px;
+    height: 250px;
     padding: 300px;
     font-size: 36px;
     font-weight: 200;
@@ -158,3 +158,49 @@ div.herosection {
     margin-left: 750px;
     font-style: normal;
 }
+
+.signuparea {
+    display: flex;
+    justify-content: center;
+    padding: 110px;
+}
+
+.actionbox {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ align-items: center;
+ background-color: #3882f6;
+ height: 150px;
+ width: 1100px;
+ border-radius: 12px;
+}
+
+.actionbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 12px;
+    color: #f9faf8;
+    padding: 20px;
+    height: 15px;
+    width: 170px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.actiontext {
+    display: flex;
+    flex-direction: column;
+}
+ .timetext {
+    font-weight: bold;
+ }
+
+ .signtext {
+    margin-top: -15px;
+ }
